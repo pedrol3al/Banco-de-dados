@@ -1,1 +1,0 @@
-create database pedro_lealat12
